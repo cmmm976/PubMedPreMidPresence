@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "author": {
+    "name": "Evian",
+    "id": "374261075690127360"
+  },
+  "url": "pubmed.ncbi.nlm.nih.gov",
+  "description": {
+    "fr": "PubMed est le principal moteur de recherche de données bibliographiques de l'ensemble des domaines de spécialisation de la biologie et de la médecine.",
+	"en": "PubMed is a free resource supporting the search and retrieval of biomedical and life sciences literature with the aim of improving health-both globally and personally. The PubMed database contains more than 30 million citations and abstracts of biomedical literature."
+  },
+  "service": "PubMed",
+  "version": "1.0.0",
+  "logo": "https://cdn.discordapp.com/attachments/513701275305639947/721730112026050571/pubmed_logo.png",
+  "thumbnail": "https://cdn.discordapp.com/attachments/513701275305639947/721729675147214868/thumbnail.png",
+  "color": "#7289DA",
+  "tags": [],
+  "category": "other"
+}
